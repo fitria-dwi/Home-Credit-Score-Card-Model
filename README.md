@@ -1,13 +1,17 @@
 # Home Credit Score Card Model
 
-- Created by Fitria Dwi Wulandari
-- **Objectives**: 
-  - Identify characteristics of clients who have difficulty in repaying the loans.
-  - Implement machine learning algorithms to predict client’s repayment abilities.
+Created by Fitria Dwi Wulandari
+
+### **Objectives**: 
+  - Identified characteristics of clients who have difficulty in repaying the loans.
+  - Implemented machine learning algorithms to predict client’s repayment abilities.
   
-- **Results**: 
+### **Results**: 
   - The most important features to determine whether the client is having difficulty repaying the loan are score from external data source 2, score from external data source 3, client's age in days, days ID publish, and days registration
   - The best model to predict client’s repayment abilities is Random Forest model.
   
-- Tools: Python.
+### Tool: Python.
+
+### **Documentation**: 
+Click on [this](https://github.com/fitria-dwi/Home-Credit-Score-Card-Model/blob/main/Home%20Credit%20Score%20Card%20Model.ipynb) if you would like to go further to the notebook.
 
